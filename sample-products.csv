@@ -1,0 +1,12 @@
+name,unit,category,brand,stock,status
+Laptop,piece,Electronics,Dell,10,Active
+Mouse,piece,Electronics,Logitech,25,Active
+Keyboard,piece,Electronics,Logitech,15,Active
+Monitor,piece,Electronics,Samsung,8,Active
+Webcam,piece,Electronics,Logitech,12,Active
+Headphones,piece,Electronics,Sony,20,Active
+Tablet,piece,Electronics,Apple,5,Active
+Smartphone,piece,Electronics,Samsung,30,Active
+Charger,piece,Electronics,Generic,50,Active
+USB Cable,piece,Electronics,Generic,100,Active
+
